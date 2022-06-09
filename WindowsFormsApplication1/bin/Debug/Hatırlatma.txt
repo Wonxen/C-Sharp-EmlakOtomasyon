@@ -1,0 +1,11 @@
+Merhaba Emrecan Balta
+
+Şifrenizi gönderdiniz ve şifrenizi göndermek için bir metin belgesi gönderildi.
+Şifreniz ve Kullanıcı adınız aşağıda belirtilmektedir.
+
+Kullanıcı Adınız: Wonxen
+Şifreniz: 1337
+
+Güvenliğiniz için giriş yaptıktan sonra lütfen hemen şifrenizi değiştirin.
+
+Emlak ekibiniz!
