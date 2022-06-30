@@ -3,15 +3,15 @@
 * C# Emlak otomasyon projesi içinde OleDb(Access) veri tabanı kullanarak yapılmıştır geliştirilmesi incelenmesi size aittir hatasız şekilde kodlanmıştır keyifli kodlamalar.
 
 # Proje Hakkında
-* Projeyi yapmam için fikir veren [Yusuf'a](https://github.com/yusufemreACILAN) teşekkürler. Emlak otomasyon projesinde bazı yenilikler yakın zamanda gelicektir öncelik olarak parola unuttum kısmı hastane otomasyonunda olduğu gibi txt(Metin Belgesi) içine yazdırmış bulunmaktayım bunu SmtpClient(Mail Göndererek) istedim ama bazı mail kaynaklı hatalar olduğu için onu geliştirip yakın zamananda hastane otomasyon projemle birlikte güncellemeyi düşünüyorum onun yanında veri tabanı kontrolü de güncellenecektir.
+* Emlak otomasyon projesinde bazı yenilikler yakın zamanda gelicektir öncelik olarak parola unuttum kısmı hastane otomasyonunda olduğu gibi txt(Metin Belgesi) içine yazdırmış bulunmaktayım bunu SmtpClient(Mail Göndererek) istedim ama bazı mail kaynaklı hatalar olduğu için onu geliştirip yakın zamananda hastane otomasyon projemle birlikte güncellemeyi düşünüyorum onun yanında veri tabanı kontrolü de güncellenecektir.
 
 # Çalıştırmak İçin
 * İlk olarak bilgisayarına [Visual Studio](https://visualstudio.microsoft.com/tr/downloads/) indir.
 * Bu projeyi zip halinde indir herhangi bir klasöre zipi çıkar
 
 # İletişim
-* [Discord Profilim](https://discord.com/users/545976310342746152)
-* [Mail Adresim](wonxenxd@gmail.com)
+<a href="mailto:emreecanbaltaa@icloud.com"><img alt="Gmail" src="https://img.shields.io/badge/iCloud-D14836?style=flat&logo=icloud&logoColor=white" /></a> &nbsp;
+<a href="https://discord.com/users/545976310342746152"><img alt="Gmail" src="https://img.shields.io/badge/Discord-2f3236?style=flat&logo=discord&logoColor=blue" /></a>&nbsp;
 * Herhangi bir hata bulmanız durumunda ya da yardım isteyeceğiniz zaman buralardan bana ulaşabilirsiniz.
 
 # Projeye Dair Görseller
