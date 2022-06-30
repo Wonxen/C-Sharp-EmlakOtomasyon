@@ -12,7 +12,6 @@
 # İletişim
 <a href="mailto:emreecanbaltaa@icloud.com"><img alt="Gmail" src="https://img.shields.io/badge/iCloud-D14836?style=flat&logo=icloud&logoColor=white" /></a> &nbsp;
 <a href="https://discord.com/users/545976310342746152"><img alt="Gmail" src="https://img.shields.io/badge/Discord-2f3236?style=flat&logo=discord&logoColor=blue" /></a>&nbsp;
-* Herhangi bir hata bulmanız durumunda ya da yardım isteyeceğiniz zaman buralardan bana ulaşabilirsiniz.
 
 # Projeye Dair Görseller
 
